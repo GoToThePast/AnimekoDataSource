@@ -17,12 +17,12 @@
             "requestInterval": 3000,
             "subjectFormatId": "indexed",
             "selectorSubjectFormatA": {
-              "selectLists": "div.video-info-header > a",
+              "selectLists": "div.thumb-menu.flex > a.button.cr3",
               "preferShorterName": true
             },
             "selectorSubjectFormatIndexed": {
-              "selectNames": "div.detail-info.rel.flex-auto.lightSpeedIn > a > h3",
-              "selectLinks": "div.detail-info.rel.flex-auto.lightSpeedIn > a",
+              "selectNames": "div.vod-detail-bnt > a",
+              "selectLinks": "div.vod-detail-bnt > a",
               "preferShorterName": true
             },
             "selectorSubjectFormatJsonPathIndexed": {
