@@ -7,7 +7,7 @@
         "arguments": {
           "name": "稀饭动漫(备用)",
           "description": "",
-          "iconUrl": "https://dm.xifanacg.com//template/dsn2/static/img/fav.png",
+          "iconUrl": "https://raw.githubusercontent.com/GoToThePast/AnimekoDataSource/refs/heads/main/1.jpg",
           "searchConfig": {
             "searchUrl": "https://dm1.xfdm.pro/search.html?wd={keyword}",
             "searchUseOnlyFirstWord": true,
